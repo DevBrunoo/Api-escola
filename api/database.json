@@ -1,0 +1,19 @@
+{
+    "development": {
+      "driver": "mysql",
+      "host": "localhost",
+      "database": "escola",
+      "user": "seu_usuario",
+      "password": "sua_senha",
+      "multipleStatements": true
+    },
+    "test": {
+      "driver": "mysql",
+      "host": "localhost",
+      "database": "escola_test",
+      "user": "seu_usuario",
+      "password": "sua_senha",
+      "multipleStatements": true
+    }
+  }
+  
